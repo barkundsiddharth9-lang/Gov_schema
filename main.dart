@@ -1344,7 +1344,7 @@ class _MainScreenState extends State<MainScreen> with TickerProviderStateMixin {
 
   // Claude AI config
   static const String _claudeApiKey =
-      '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';
+      '';
   static const String _claudeModel = 'claude-sonnet-4-20250514';
 
   bool _isTyping = false;
@@ -4779,3 +4779,4 @@ class _TypingIndicatorState extends State<_TypingIndicator>
     );
   }
 }
+
