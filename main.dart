@@ -3432,3 +3432,4 @@ class _TypingIndicatorState extends State<_TypingIndicator>
     );
   }
 }
+
